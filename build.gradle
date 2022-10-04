@@ -30,5 +30,6 @@ test {
 }
 
 application {
-    mainClass = 'asm2.App'
+    mainClass = 'A2_pool_game.POOL_GAME'
+
 }
